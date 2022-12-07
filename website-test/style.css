@@ -71,6 +71,11 @@ a {
     height: 168px;
 }
 
+.cat-img-large {
+    height: 168px;
+    width: 316px;
+}
+
 button {
     border: none;
     border-radius: 8px;
@@ -108,7 +113,7 @@ button {
     border-radius: 16px;
 }
 
-img {
+.cat-img-small {
     max-height: 150px;
     max-width: 150px;
     border-radius: 10px;
